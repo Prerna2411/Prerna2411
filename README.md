@@ -24,7 +24,7 @@
 ### 🛠 Tools & Technologies
 
 - **Languages:** Python, SQL
-- **Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, Keras, PyTorch
+- **Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, Keras
 - **Visualization:** Matplotlib, Seaborn, Plotly.Power BI
 - **Platforms:** Streamlit, Azure, Oracle DB, Docker
 - **Data Science & AI Concepts**: Machine Learning, Deep Learning, Predictive Modeling, CNN, BERT, Model Evaluation,
@@ -38,10 +38,10 @@
 
 ### 🧠 Learning Goals
 
-- ✅ NLP with Transformers (HuggingFace)
-- ✅ MLOps: Docker, CI/CD for ML
-- ✅ Open-source AI contributions
-- ✅ Human-Computer Interaction (HCI) & UI/UX design for ML tools
+-  NLP with Transformers (HuggingFace)
+-  MLOps: Docker, CI/CD for ML
+- Open-source AI contributions
+- Human-Computer Interaction (HCI) & UI/UX design for ML tools
 
 </td>
 </tr>
@@ -55,13 +55,13 @@
 
 ###  Profile Viewers
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Prerna2411&label=Profile%20views&color=blueviolet&style=flat" />
 </p>
 
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/prernapandey10" target="_blank">
+  <a href="https://www.linkedin.com/in/prernapandey10" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:pprerna42@gmail.com">
