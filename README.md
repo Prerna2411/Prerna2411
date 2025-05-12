@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">👩‍💻 Hi, I'm Prerna Pandey— Data Science & Machine Learning Enthusiast</h1>
 <p align="center">
@@ -53,10 +53,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prerna2411&theme=tokyonight" />
 </p>
 
-###  Profile Viewers
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prerna2411&label=Profile%20views&color=blueviolet&style=flat" />
-</p>
+
 
 ### 📫 Connect with Me
 
