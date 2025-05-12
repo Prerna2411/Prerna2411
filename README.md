@@ -34,13 +34,7 @@
   
   <td width="50%" valign="top">
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="100%" />
-</p>
-
----
 
 ### 🧠 Learning Goals
 
@@ -56,7 +50,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prerna2411&theme=tokyonight" />
 </p>
 
 ###  Profile Viewers
