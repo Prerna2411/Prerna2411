@@ -12,12 +12,12 @@
 ### 📊 Featured Projects
 
 - 🎯 [Student Performance Prediction (Azure Deployment)](https://github.com/yourrepo/student-performance-azure)
-- 🛰 [Disaster Tweets Classification (Kaggle)](https://www.kaggle.com/prernapandey/disaster-tweets)
+
 - 🎥 [Movie Recommendation System]
 - 💳 [Credit Risk Scoring App]
 - 🤖 [RAG-based Question Answering Service over PDFs]
 - 🌱 [CNN-based Plant Disease Detection]
-- 🏡 [IoT Smart Home & Smart Parking Systems]
+
 
 ---
 
