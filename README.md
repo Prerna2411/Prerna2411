@@ -1,6 +1,6 @@
-<h1 align="center">👩‍💻 Hi, I'm Prerna Pandey — AI & Data Science Enthusiast</h1>
+<h1 align="center">👩‍💻 Hi, I'm Prerna Pandey — Aspiring AI Engineer</h1>
 <p align="center">
-  <em>Exploring AI, Machine Learning, NLP, and building real-world solutions using cutting-edge technologies.</em>
+  <em>Building intelligent systems using LLMs, RAG pipelines, and scalable AI architectures.</em>
 </p>
 
 ---
@@ -11,37 +11,59 @@
       
 ### 📊 Featured Projects
 
-- 🎯 [Student Performance Prediction (Azure Deployment)](https://github.com/yourrepo/student-performance-azure)
+- ### 📊 Featured Projects
 
-- 🎥 [Movie Recommendation System]
-- 💳 [Credit Risk Scoring App]
-- 🤖 [RAG-based Question Answering Service over PDFs]
+- 🤖 [Business Intelligence -Agent AI System]
+  <br/> <sub>Designed a dual-agent architecture for task planning and execution using LLMs, enabling dynamic reasoning, decision-making, and iterative problem solving</sub>
+
+- 🎮 [AI Game: "What Beats Rock" (GenAI Backend)]
+  <br/> <sub>Built using FastAPI, Redis caching, Groq + Mistral APIs, and game logic orchestration</sub>
+
+- 🧠 [Medical RAG Chatbot]
+  <br/> <sub>Context-aware Q&A with chunking strategies, vector search, and hallucination control</sub>
+
+- 🔬 [SEM Defect Multiclass Classification]
+  <br/> <sub>Deep learning-based image classification system for identifying semiconductor defects using CNNs with preprocessing, augmentation, and performance evaluation</sub>
+
 - 🌱 [CNN-based Plant Disease Detection]
+  <br/> <sub>Deep learning model for image classification using TensorFlow/Keras</sub>
 
 
 ---
 
 ### 🛠 Tools & Technologies
 
-- **Languages:** Python, C++, SQL
-- **Libraries & Frameworks:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Keras, HuggingFace Transformers
-- **Visualization:** Matplotlib, Seaborn, Plotly, Power BI
-- **Platforms & Dev Tools:** Streamlit, Azure, Docker, Oracle DB, Git
-- **AI & ML Concepts:** NLP, RAG, CNN, BERT, Deep Learning, Predictive Modeling, Model Evaluation, MLOps
-- **IoT & Embedded Systems:** NodeMCU, Sensors, Cloud Integration
-- **HCI & UI/UX:** Usability, Interactive Interfaces, Design for ML Tools
+- **Languages:** Python, SQL  
+- **AI/ML & GenAI:** LLMs, RAG, NLP, Transformers, BERT, CNN, Deep Learning  
+- **Frameworks & Libraries:** FastAPI, LangChain, HuggingFace, Scikit-learn, TensorFlow, Keras, Pandas, NumPy  
+- **Vector Databases:** FAISS, ChromaDB  
+- **Deployment & Infra:** Docker, Azure, Streamlit, Redis  
+- **Databases:** PostgreSQL, MongoDB, Oracle  
+- **Data Visualization:** Matplotlib, Seaborn, Power BI  
+- **IoT Systems:** NodeMCU, Sensors, Smart Automation Systems  
+- **Concepts:** Feature Engineering, Model Evaluation, Prompt Engineering, Caching, System Design  
 
   </td>
   
   <td width="50%" valign="top">
 
-### 🧠 Learning Goals
+### 🧠 Current Focus
 
-- Advanced NLP & Generative AI with HuggingFace and OpenAI GPT models
-- MLOps: CI/CD pipelines, Dockerized ML deployments
-- Open-source AI contributions
-- Human-Computer Interaction (HCI) & UI/UX design for AI/ML applications
-- Real-time IoT systems & Smart Automation
+- 🚀 Advanced RAG Optimization (chunking, retrieval tuning, latency reduction)
+- ⚡ LLM Integration (Groq, Mistral, OpenAI APIs)
+- 🧩 Building Agentic AI Systems & Multi-Agent Workflows
+- 📦 Scalable AI Systems (FastAPI + Redis + Vector DB)
+- 🔍 Debugging & Improving LLM Failures (hallucination, redundancy, ranking)
+- 🌐 End-to-End AI Product Development
+
+---
+
+### 📈 What Sets Me Apart
+
+- Strong **hands-on GenAI project experience** (not just theory)
+- Experience with **real-world system design (RAG + APIs + caching)**
+- Ability to **debug, optimize, and productionize AI systems**
+- Blend of **AI + IoT + Full-stack deployment knowledge**
 
 </td>
 </tr>
@@ -56,7 +78,7 @@
   <a href="mailto:pprerna42@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://github.com/prernapandey" target="_blank">
+  <a href="https://github.com/Prerna2411" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge" />
   </a>
 </p>
