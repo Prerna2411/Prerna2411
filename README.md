@@ -11,7 +11,7 @@
       
 ### 📊 Featured Projects
 
-- ### 📊 Featured Projects
+
 
 - 🤖 [Business Intelligence -Agent AI System]
   <br/> <sub>Designed a dual-agent architecture for task planning and execution using LLMs, enabling dynamic reasoning, decision-making, and iterative problem solving</sub>
@@ -34,13 +34,12 @@
 ### 🛠 Tools & Technologies
 
 - **Languages:** Python, SQL  
-- **AI/ML & GenAI:** LLMs, RAG, NLP, Transformers, BERT, CNN, Deep Learning  
+- **AI/ML & GenAI:** LLMs, RAG, NLP, Transformers, BERT, CNN, Deep Learning,Machine Learning,MLOps.
 - **Frameworks & Libraries:** FastAPI, LangChain, HuggingFace, Scikit-learn, TensorFlow, Keras, Pandas, NumPy  
 - **Vector Databases:** FAISS, ChromaDB  
 - **Deployment & Infra:** Docker, Azure, Streamlit, Redis  
 - **Databases:** PostgreSQL, MongoDB, Oracle  
 - **Data Visualization:** Matplotlib, Seaborn, Power BI  
-- **IoT Systems:** NodeMCU, Sensors, Smart Automation Systems  
 - **Concepts:** Feature Engineering, Model Evaluation, Prompt Engineering, Caching, System Design  
 
   </td>
@@ -58,12 +57,6 @@
 
 ---
 
-### 📈 What Sets Me Apart
-
-- Strong **hands-on GenAI project experience** (not just theory)
-- Experience with **real-world system design (RAG + APIs + caching)**
-- Ability to **debug, optimize, and productionize AI systems**
-- Blend of **AI + IoT + Full-stack deployment knowledge**
 
 </td>
 </tr>
