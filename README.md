@@ -12,7 +12,7 @@ Currently, I'm focused on developing scalable AI applications using **FastAPI, L
 
 * 🤖 Building Agentic AI systems and autonomous workflows
 * 📚 Advanced Retrieval-Augmented Generation (RAG)
-* 🧠 LLM integrations (Groq, OpenAI, Mistral, Hugging Face)
+* 🧠 LLM integrations (Groq, OpenAI,Hugging Face)
 * ⚡ FastAPI-based AI backend development
 * 📦 Scalable AI applications with Redis and Vector Databases
 * 🔍 Improving retrieval quality, latency, and hallucination reduction
@@ -21,14 +21,10 @@ Currently, I'm focused on developing scalable AI applications using **FastAPI, L
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-### 🤖 AI / Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,keras" />
   <img src="https://img.shields.io/badge/Machine_Learning-0A66C2?style=for-the-badge"/>
@@ -41,10 +37,8 @@ Currently, I'm focused on developing scalable AI applications using **FastAPI, L
   <img src="https://img.shields.io/badge/Statistics-3949AB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data_Science-1565C0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/EDA-00897B?style=for-the-badge"/>
-</p>
 
-### 🧠 GenAI & Agentic AI
-<p>
+
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangGraph-4CAF50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RAG-0D9488?style=for-the-badge"/>
@@ -53,20 +47,15 @@ Currently, I'm focused on developing scalable AI applications using **FastAPI, L
   <img src="https://img.shields.io/badge/Semantic_Search-F97316?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge"/>
-</p>
 
-### 📚 Frameworks & Libraries
-<p>
   <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,keras" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://skillicons.dev/icons?i=pandas" />
   <img src="https://skillicons.dev/icons?i=numpy" />
   <img src="https://img.shields.io/badge/NLTK-154F8B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-</p>
 
-### ⚙️ Backend & Deployment
-<p>
+
   <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,github,githubactions" />
   <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
